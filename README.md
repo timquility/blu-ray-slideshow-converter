@@ -2,7 +2,7 @@
 
 Turns a photo-gallery rip from a Blu-ray disc into a normal video file.
 
-Disc photo galleries can be ripped from a Blu-ray disc as an .mkv in which every image flashes past in quick succession. This script finds the individual images and generates a new .mkv where each image stays on screen for a time you choose, with one chapter per image. Your original files are never changed.
+MakeMKV can extract photo galleries from a Blu-ray disc as an .mkv in which every image flashes past in quick succession. This script finds the individual images and generates a new .mkv where each image stays on screen for a time you choose, with one chapter per image. Your original files are never changed.
 
 ## Output
 
